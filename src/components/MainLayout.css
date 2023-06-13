@@ -1,0 +1,12 @@
+.active{
+    background-color: blue;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+}
+
+.pending{
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
